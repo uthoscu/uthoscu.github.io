@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uthoscu.github.io/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/app/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/assets/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/css/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/data/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/includes/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/item/sitemap.uthoscu.gz
+Sitemap: https://uthoscu.github.io/src/sitemap.uthoscu.gz
